@@ -1,4 +1,4 @@
-![logo](https://github.com/Sagarkrsahu2005/Sagarkrsahu2005/blob/main/White%20Minimalist%20Elegant%20Handwritten%20LinkedIn%20Banner.png)
+![logo](https://github.com/Sagarkrsahu2005/Sagarkrsahu2005/blob/main/Black%20Brown%20Modern%20Creative%20Portfolio%20Presentation%20(1584%20x%20396%20px).jpg)
 <h1 align="center">Hey!👋 Sagar Kumar Sahu</h1>
 <h3 align="center">Let's Code a Bright future together!</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif">
