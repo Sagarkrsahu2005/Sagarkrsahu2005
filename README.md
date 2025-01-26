@@ -1,7 +1,7 @@
 ![logo](https://github.com/Sagarkrsahu2005/Sagarkrsahu2005/blob/main/White%20Minimalist%20Elegant%20Handwritten%20LinkedIn%20Banner.png)
 <h1 align="center">Hey!👋 Sagar Kumar Sahu</h1>
 <h3 align="center">Let's Code a Bright future together!</h3>
-<img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sagarkrsahu2005&label=Profile%20views&color=0e75b6&style=flat" alt="sagarkrsahu2005" /> </p>
